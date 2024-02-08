@@ -5,7 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-aj-champ&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-aj-champ" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, NodeJs,Ui&Ux design.**
+- 🌱 I’m currently learning **JavaScript,
+-  React
+-  NodeJs
+-  Ui&Ux design.**
 
 - 👨‍💻 All of my projects are available at [https://aditya-aj-champ.github.io/portfolio/](https://aditya-aj-champ.github.io/portfolio/)
 
