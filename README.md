@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95"/> -->
 <h3 align="center">A passionate web developer from India. I love exploring the world of technology and constantly learning new things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-aj-champ&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-aj-champ" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=aditya-aj-champ&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-aj-champ" /> </p>
 
 - 🌱 I’m currently learning **
   >JavaScript,
