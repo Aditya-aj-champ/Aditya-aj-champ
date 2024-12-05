@@ -11,7 +11,7 @@
   > NodeJs
   > Ui&Ux design.**
 
-- 👨‍💻 All of my projects are available at [https://aditya-aj-champ.github.io/New-Portfolio/]https://aditya-aj-champ.github.io/New-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://aditya-aj-champ.github.io/New-Portfolio/].)
 
 - 📫 How to reach me **adityagupta292001@gmail.com**
 - 📫 Linkedln  **https://www.linkedin.com/in/aditya-raj-gupta-28855916a/**
